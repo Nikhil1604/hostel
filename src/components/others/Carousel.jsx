@@ -18,10 +18,6 @@ const slides = [
   // Add more slides as needed
 ];
 
-
-
-  
-
 const Carousel = ({ items }) => {
   const [currentIndex, setCurrentIndex] = useState(0);
 
